@@ -1,1 +1,1 @@
-# Implementation of a Poisson Gamma hirrarchical model.
+# Implementation of a Poisson Gamma hierarchical model.
