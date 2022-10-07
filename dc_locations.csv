@@ -1,0 +1,263 @@
+location,sensor,city,feature,survey_area,% to buildings,% to woods,intersects
+Pointe d'Areuse,pointe-d-areuse,Boudry,Neuenburgersee,aare,0.1984126984126983,0.1626984126984127,8.0
+Aabach,aabach,Schmerikon,Zurichsee,linth,0.1706263498920086,0.3844492440604752,16.0
+Aare Limmatspitz,aare-limmatspitz,Gebenstorf,Aare,aare,0.2246835443037974,0.3227848101265823,0.0
+Aare Port,aare-port,Port,Aare|Nidau-Büren-Kanal,aare,0.2966226138032306,0.3788546255506608,0.0
+Aare Solothurn Lido Strand,aare-solothurn-lido-strand,Solothurn,Aare,aare,0.1575757575757576,0.2893939393939393,0.0
+aarezufluss_bern_scheurerk,aarezufluss_bern_scheurerk,Bern,Aare,aare,0.4045801526717557,0.2519083969465649,0.0
+Aare_Bern_CaveltiN,aare_bern_caveltin,Muri bei Bern,Aare,aare,0.3033873343151694,0.1561119293078056,0.0
+Aare_bern_gerberm,aare_bern_gerberm,Bern,Aare,aare,0.3020527859237536,0.2038123167155425,0.0
+aare_bern_scheurerk,aare_bern_scheurerk,Bern,Aare,aare,0.4033485540334855,0.2557077625570776,0.0
+Aare_Brugg_BuchiE,aare_brugg_buchie,Brugg,Aare,aare,0.2888888888888888,0.3015873015873015,0.0
+Aare_Elfenau_cataldiv,aare_elfenau_cataldiv,Bern,Aare,aare,0.4235294117647058,0.1735294117647058,0.0
+aare_kehrsatz_stolten,aare_kehrsatz_stolten,Belp,Aare,aare,0.2810650887573964,0.1301775147928994,0.0
+aare_köniz_hoppej,aare_koniz_hoppej,Köniz,Aare,aare,0.4761194029850746,0.1507462686567164,0.0
+Aare_post,aare_post,Port,Aare|Nidau-Büren-Kanal,aare,0.284457478005865,0.3856304985337243,0.0
+aare_rupperswil_badert,aare_rupperswil_badert,Rupperswil,Aare,aare,0.0748091603053435,0.584732824427481,0.0
+aare_solothurn_nguyena,aare_solothurn_nguyena,Solothurn,Aare,aare,0.1873111782477341,0.283987915407855,0.0
+aare_suhrespitz_badert,aare_suhrespitz_badert,Aarau,Aare,aare,0.3651515151515151,0.2272727272727272,0.0
+Anarchy Beach,anarchy-beach,La Tour-de-Peilz,Lac Léman,rhone,0.6739130434782609,0.0043478260869565,3.0
+Arabie,arabie,Vevey,Lac Léman,rhone,0.5705329153605015,0.018808777429467,4.0
+arve_carouge_battistellak,arve_carouge_battistellak,Veyrier,Arve,rhone,0.4853372434017595,0.1363636363636363,0.0
+Ascona traghetto spiaggia,ascona-traghetto-spiaggia,Ascona,Lago Maggiore,ticino,0.4711111111111111,0.2177777777777778,2.0
+AugustMützenbergStrandweg,augustmutzenbergstrandweg,Spiez,Thunersee,aare,0.3707317073170731,0.1951219512195122,0.0
+Baby Plage Geneva,baby-plage-geneva,Genève,Lac Léman,rhone,0.5470852017937219,0.0224215246636771,2.0
+Baby-Plage II Genève,baby-plage-ii-geneve,Genève,Lac Léman,rhone,0.5555555555555556,0.0231481481481481,2.0
+Bagno Pubblico Ascona,bagno-pubblico-ascona,Ascona,Lago Maggiore,ticino,0.4463087248322147,0.0302013422818791,1.0
+Bain des Dames,bain-des-dames,La Tour-de-Peilz,Lac Léman,rhone,0.6568627450980393,0.0130718954248366,2.0
+Baye de Clarens,baye-de-clarens,Montreux,Lac Léman,rhone,0.5622895622895623,0.0303030303030303,4.0
+Baye de Montreux D,baye-de-montreux-d,Montreux,Lac Léman,rhone,0.4855072463768116,0.1268115942028985,3.0
+Baye de Montreux G,baye-de-montreux-g,Montreux,Lac Léman,rhone,0.4760147601476014,0.1291512915129151,3.0
+Beich,beich,Walperswil,Aare,aare,0.0240601503759398,0.2150375939849624,0.0
+Berlingen swisslitterreport,berlingen-swisslitterreport,Berlingen,Untersee,rhine,0.0828571428571428,0.48,1.0
+Bern Fahrstrasse,bern-fahrstrasse,Bern,Aare,aare,0.2831050228310502,0.3622526636225266,0.0
+Bern Tiergarten,bern-tiergarten,Bern,Aare,aare,0.4613095238095238,0.1785714285714285,0.0
+Bielersee_Vinelz_FankhauserS,bielersee_vinelz_fankhausers,Vinelz,Bielersee,aare,0.1635220125786163,0.1341719077568134,5.0
+Birsköpfli Rusco,birskopfli-rusco,Birsfelden,Birs,aare,0.5432692307692307,0.0272435897435897,0.0
+Birs_Basel_GrunerN,birs_basel_grunern,Basel,Birs,aare,0.4739336492890996,0.1200631911532385,0.0
+Birs_basel_lÃ¤derachs,birs_basel_laderachs,Basel,Birs,aare,0.4434654919236416,0.1365638766519823,0.0
+Birs_Reinach_DiNucciN,birs_reinach_dinuccin,Reinach (BL),Birs,aare,0.497841726618705,0.2302158273381295,0.0
+bodensee_altenrhein_caluoria,bodensee_altenrhein_caluoria,Thal,Bodensee,rhine,0.2886075949367089,0.0810126582278481,4.0
+Bodensee_Arbon_MosliS,bodensee_arbon_moslis,Arbon,Bodensee,rhine,0.5150501672240803,0.0568561872909698,1.0
+bodensee_horn_huberm,bodensee_horn_huberm,Horn,Bodensee,rhine,0.3668478260869565,0.0244565217391304,4.0
+Bodensee_Steinach_Dolder_A,bodensee_steinach_dolder_a,Steinach,Bodensee,rhine,0.4661190965092402,0.0184804928131416,2.0
+bodensee_thal_schlachterj_1,bodensee_thal_schlachterj_1,Thal,Bodensee,rhine,0.2857142857142857,0.0827067669172932,4.0
+Boiron,boiron,Tolochenaz,Lac Léman,rhone,0.2625,0.1666666666666666,1.0
+Brügg BE Büren BSG Standort,brugg-be-buren-bsg-standort,Brügg,Aare|Nidau-Büren-Kanal,aare,0.2448680351906158,0.2917888563049853,0.0
+Camp des pêches,camp-des-peches,Le Landeron,Bielersee,aare,0.1920792079207921,0.1405940594059406,8.0
+Camping Gwatt Strand,camping-gwatt-strand,Thun,Thunersee,aare,0.3848039215686274,0.1446078431372549,6.0
+Canale saleggi,canale-saleggi,Bellinzona,Ticino,ticino,0.3249258160237388,0.3827893175074184,0.0
+caprino,caprino,Lugano,Lago di Lugano,ticino,0.0462046204620462,0.9042904290429042,14.0
+chriesbach_duebendorf_schneidera,chriesbach_duebendorf_schneidera,Dübendorf,Chriesbach,rhine,0.4748201438848921,0.0920863309352518,0.0
+Clean up tour cabanes des Diablerets,clean-up-tour-cabanes-des-diablerets,Ormont-Dessus,Alpes Vaudoises,les-alpes,0.0,0.0865248226950354,0.0
+Clean-Up Tour Crans-Montana,clean-up-tour-crans-montana,Lens,Alpes Valaisannes,les-alpes,0.0084388185654008,0.2827004219409282,0.0
+Clean-Up Tour Les Crosets,clean-up-tour-les-crosets,Val-d'Illiez,Alpes Valaisannes,les-alpes,0.0198863636363636,0.1832386363636363,0.0
+Clean-Up Tour Morgins,clean-up-tour-morgins,Troistorrents,Alpes Valaisannes,les-alpes,0.0825035561877667,0.65149359886202,0.0
+Clean-Up Tour Nendaz,clean-up-tour-nendaz,Nendaz,Alpes Valaisannes,les-alpes,0.0198863636363636,0.5909090909090909,0.0
+Clean-Up Tour Verbier,clean-up-tour-verbier,Val de Bagnes,Alpes Valaisannes,les-alpes,0.2716927453769558,0.2176386913229018,0.0
+Clean-Up Tour Veysonnaz,clean-up-tour-veysonnaz,Nendaz,Alpes Valaisannes,les-alpes,0.0241477272727272,0.5923295454545455,0.0
+clean-up-tour-airolo,clean-up-tour-airolo,Airolo,Alpes Lépontines,les-alpes,0.0272206303724928,0.4570200573065903,0.0
+clean-up-tour-andermatt,clean-up-tour-andermatt,Andermatt,Alpes Uranaises,les-alpes,0.0,0.2514285714285714,0.0
+clean-up-tour-charmey,clean-up-tour-charmey,Val-de-Charmey,Préalpes Fribourgeoises,les-alpes,0.0413105413105413,0.4886039886039885,0.0
+clean-up-tour-Grindelwald,clean-up-tour-grindelwald,Grindelwald,Alpes Bernoises,les-alpes,0.0057224606580829,0.1988555078683834,0.0
+clean-up-tour-la-berra,clean-up-tour-la-berra,La Roche,Préalpes Fribourgeoises,les-alpes,0.001418439716312,0.6127659574468085,0.0
+clean-up-tour-la-robella,clean-up-tour-la-robella,Val-de-Travers,Massif du Jura,les-alpes,0.0297029702970297,0.603960396039604,0.0
+clean-up-tour-la-tzoumaz,clean-up-tour-la-tzoumaz,Riddes,Alpes Valaisannes,les-alpes,0.1319148936170213,0.6879432624113475,0.0
+clean-up-tour-les-diablerets,clean-up-tour-les-diablerets,Ormont-Dessus,Alpes Vaudoises,les-alpes,0.1369472182596291,0.5392296718972895,0.0
+clean-up-tour-les-paccots,clean-up-tour-les-paccots,Châtel-Saint-Denis,Préalpes Fribourgeoises,les-alpes,0.074074074074074,0.6125356125356126,0.0
+clean-up-tour-san-bernardino,clean-up-tour-san-bernardino,Mesocco,Alpes Lépontines,les-alpes,0.0225225225225225,0.6906906906906907,0.0
+clean-up-tour-val-calanca,clean-up-tour-val-calanca,Calanca,Alpes Lépontines,les-alpes,0.0217076700434153,0.8277858176555716,0.0
+clean-up-tour-vercorin,clean-up-tour-vercorin,Chalais,Alpes Valaisannes,les-alpes,0.001410437235543,0.6544428772919605,0.0
+clean-up-tour-villars,clean-up-tour-villars,Ollon,Alpes Vaudoises,les-alpes,0.0086330935251798,0.3985611510791367,0.0
+Cudrefin alternate,cudrefin-alternate,Cudrefin,Neuenburgersee,aare,0.1202046035805626,0.1841432225063938,6.0
+Cully plage,cully-plage,Bourg-en-Lavaux,Lac Léman,rhone,0.0893719806763284,0.1352657004830917,11.0
+Delta park,delta-park,Spiez,Thunersee,aare,0.2868852459016393,0.2404371584699453,5.0
+detligen kraftwerk,detligen-kraftwerk,Radelfingen,Aare,aare,0.0479876160990712,0.3746130030959753,0.0
+emme_biberist_jennim,emme_biberist_jennim,Biberist,Emme,aare,0.3250728862973761,0.271137026239067,0.0
+emme_luterbach_huggenbergerk,emme_luterbach_huggenbergerk,Zuchwil,Emme,aare,0.3328380386329866,0.1218424962852897,0.0
+Emme_Utzenstorf_Grüttert,emme_utzenstorf_gruttert,Utzenstorf,Emme,aare,0.1861471861471861,0.2106782106782107,0.0
+Erlach camping strand,erlach-camping-strand,Erlach,Bielersee,aare,0.1469534050179211,0.1863799283154121,7.0
+Evole plage,evole-plage,Neuchâtel,Neuenburgersee,aare,0.4185463659147869,0.238095238095238,1.0
+Flibach River Right bank,flibach-river-right-bank,Weesen,Walensee,linth,0.0,0.0,8.0
+Foce del Cassarate,foce-del-cassarate,Lugano,Cassarate,ticino,0.6368563685636857,0.048780487804878,5.0
+Gals reserve,gals-reserve,Gals,Bielersee,aare,0.1224018475750577,0.3002309468822171,7.0
+gerra-gambarogno,gerra-gambarogno,Gambarogno,Lago Maggiore,ticino,0.132183908045977,0.8074712643678161,17.0
+glatt_oerlikon_covosN,glatt_oerlikon_covosn,Opfikon,Glatt,rhine,0.5164051355206848,0.0370898716119828,0.0
+goldach_goldach_schlachterj,goldach_goldach_schlachterj,Goldach,Goldach,rhine,0.2896253602305476,0.1786743515850144,0.0
+golene gudo,golene-gudo,Bellinzona,Ticino,ticino,0.0791044776119403,0.3149253731343283,0.0
+Grand Clos,grand-clos,Saint-Gingolph,Lac Léman,rhone,0.175438596491228,0.5994152046783626,8.0
+greifensee_fällanden_meistery,greifensee_fallanden_meistery,Fällanden,Greifensee,rhine,0.2037037037037037,0.3101851851851852,0.0
+greifensee_fällanden_simmenc,greifensee_fallanden_simmenc,Fällanden,Greifensee,rhine,0.184652278177458,0.3141486810551559,0.0
+greifensee_greifensee_simmenc,greifensee_greifensee_simmenc,Greifensee,Greifensee,rhine,0.3224852071005917,0.0621301775147929,0.0
+greifensee_maur_simmenc,greifensee_maur_simmenc,Maur,Greifensee,rhine,0.0947867298578199,0.2132701421800947,0.0
+greifensee_uster_fischerb_ 2,greifensee_uster_fischerb_-2,Uster,Greifensee,rhine,0.2455696202531646,0.1443037974683544,0.0
+greifensee_uster_fischerb_1,greifensee_uster_fischerb_1,Uster,Greifensee,rhine,0.2610837438423645,0.1305418719211822,0.0
+Grendelbach_Effretikon_DamboneC,grendelbach_effretikon_dambonec,Illnau-Effretikon,Grändelbach,rhine,0.2343749999999999,0.2883522727272727,0.0
+Gummligrabbe,gummligrabbe,Kallnach,Aare,aare,0.0476190476190476,0.353968253968254,0.0
+Gäsi Strand,gasi-strand,Weesen,Walensee,linth,0.0,0.0,8.0
+Hauterive Petite plage,hauterive-petite-plage,Hauterive (NE),Neuenburgersee,aare,0.3267543859649123,0.2434210526315789,2.0
+Häfeli,hafeli,Bönigen,Brienzersee,aare,0.2452380952380952,0.2857142857142857,6.0
+Impromptu_Cudrefin,impromptu_cudrefin,Cudrefin,Neuenburgersee,aare,0.1179487179487179,0.1897435897435897,5.0
+Inn_Pradella_KohlT,inn_pradella_kohlt,Scuol,Inn,rhine,0.0,0.0,0.0
+Isole di Brissago porto,isole-di-brissago-porto,Brissago,Lago Maggiore,ticino,0.3648648648648648,0.472972972972973,9.0
+Jardin Botanique,jardin-botanique,Genève,Lac Léman,rhone,0.5102564102564102,0.023076923076923,0.0
+Jona river Rastplatz,jona-river-rastplatz,Rapperswil-Jona,Jona,linth,0.3653846153846155,0.0038461538461538,11.0
+jona_tann_nusslin,jona_tann_nusslin,Dürnten,Jona,linth,0.2777777777777777,0.1894586894586894,0.0
+katzenbach_zuerich_sanesim,katzenbach_zuerich_sanesim,Zürich,Katzensee,linth,0.202020202020202,0.163059163059163,0.0
+katzensee_regensdorfzuerichaffoltern_stueberj,katzensee_regensdorfzuerichaffoltern_stueberj,Zürich,Katzensee,linth,0.1701492537313432,0.2029850746268656,0.0
+Küsnachter Dorfbach Tobelweg 1-4,kusnachter-dorfbach-tobelweg-1-4,Küsnacht (ZH),Dorfbach,linth,0.5111111111111112,0.2185185185185185,3.0
+La Morges,la-morges,Morges,Lac Léman,rhone,0.4938271604938272,0.037037037037037,1.0
+La Pêcherie,la-pecherie,Allaman,Lac Léman,rhone,0.1133501259445843,0.1460957178841309,3.0
+La Petite plage,la-petite-plage,Yverdon-les-Bains,Neuenburgersee,aare,0.3744186046511627,0.1093023255813953,5.0
+La Thièle_Le Mujon_confluence,la-thiele_le-mujon_confluence,Yverdon-les-Bains,La Thièle,aare,0.3681885125184094,0.0117820324005891,0.0
+Lac Léman Hammerdirt,lac-leman-hammerdirt,La Tour-de-Peilz,Lac Léman,rhone,0.6644951140065147,0.013029315960912,2.0
+lacléman_gland_kubela,lacleman_gland_kubela,Gland,Lac Léman,rhone,0.1304347826086956,0.3315217391304348,0.0
+Lacléman_Gland_LecoanetS,lacleman_gland_lecoanets,Gland,Lac Léman,rhone,0.1287671232876712,0.3315068493150684,0.0
+lacléman_vidy_santie,lacleman_vidy_santie,Lausanne,Lac Léman,rhone,0.3558558558558558,0.0427927927927927,2.0
+langete_langenthal_geiserm,langete_langenthal_geiserm,Langenthal,Langeten,aare,0.3926031294452347,0.209103840682788,0.0
+Lavey la source,lavey-la-source,Lavey-Morcles,Rhône,rhone,0.1204644412191581,0.6197387518142236,0.0
+Lavey les bains,lavey-les-bains,Lavey-Morcles,Rhône,rhone,0.2096069868995633,0.4454148471615721,0.0
+lavey les bains-2,lavey-les-bains-2,Lavey-Morcles,Rhône,rhone,0.2412790697674418,0.3968023255813953,0.0
+Le Pierrier,le-pierrier,Montreux,Lac Léman,rhone,0.5665529010238908,0.030716723549488,4.0
+Le Port,le-port,La Tour-de-Peilz,Lac Léman,rhone,0.6554878048780489,0.0152439024390243,2.0
+Les Glariers,les-glariers,Riddes,Rhône,rhone,0.0911854103343465,0.2066869300911854,0.0
+Les Vieux Ronquoz,les-vieux-ronquoz,Sion,Rhône,rhone,0.3731778425655976,0.1865889212827988,0.0
+leuk mattenstrasse,leuk-mattenstrasse,Leuk,Rhône,rhone,0.1136363636363636,0.5136363636363637,0.0
+Lido,lido,Lugano,Lago di Lugano,ticino,0.6376404494382022,0.047752808988764,5.0
+Ligerz strand,ligerz-strand,Ligerz,Bielersee,aare,0.1184210526315789,0.4157894736842105,3.0
+limmat_dietikon_keiserp,limmat_dietikon_keiserp,Dietikon,Limmat,linth,0.3933933933933934,0.1681681681681681,0.0
+Limmat_Unterengstringen_OggierBührer,limmat_unterengstringen_oggierbuhrer,Unterengstringen,Limmat,linth,0.4017725258493353,0.1063515509601181,0.0
+Limmat_Zuerich_JansenA,limmat_zuerich_jansena,Zürich,Limmat,linth,0.5,0.0730994152046783,0.0
+limmat_zuerich_suterd&glauserp,limmat-zuerich-suterd-glauserp,Zürich,Limmat,linth,0.4768115942028985,0.1304347826086956,0.0
+Limmat_Zuerich_WagnerC,limmat_zuerich_wagnerc,Zürich,Limmat,linth,0.4634502923976608,0.1198830409356725,0.0
+limmat_zürich_mortensena_meiera,limmat_zurich_mortensena_meiera,Zürich,Limmat,linth,0.4934306569343065,0.0788321167883211,0.0
+Linthdammweg,linthdammweg,Weesen,Linthkanal,linth,0.0392156862745098,0.3039215686274509,5.0
+Linth_Mollis,linth_mollis,Glarus Nord,Linthkanal,linth,0.0405405405405405,0.2364864864864865,6.0
+Linth_Route9brücke,linth_route9brucke,Glarus Nord,Escherkanal,linth,0.0,0.0,6.0
+Lorze_Baar_BlarerE,lorze_baar_blarere,Baar,Lorze,linth,0.2054208273894437,0.3480741797432239,0.0
+Lugano centro,lugano-centro,Lugano,Lago di Lugano,ticino,0.6527196652719665,0.0418410041841004,5.0
+Lüscherz plage,luscherz-plage,Lüscherz,Bielersee,aare,0.0785498489425982,0.6012084592145015,6.0
+Lüscherz two,luscherz-two,Lüscherz,Bielersee,aare,0.0690607734806629,0.6132596685082873,6.0
+lötschebach_bern_scheurerk,lotschebach_bern_scheurerk,Ostermundigen,Lötschebach,aare,0.4447592067988669,0.1189801699716713,0.0
+Magadino lido,magadino-lido,Gambarogno,Lago Maggiore,ticino,0.1042654028436019,0.5853080568720379,23.0
+Maladaire,maladaire,La Tour-de-Peilz,Lac Léman,rhone,0.5233415233415234,0.0319410319410319,3.0
+Mammern swisslitterreport,mammern-swisslitterreport,Steckborn,Untersee,rhine,0.0736543909348442,0.5637393767705382,5.0
+Mannewil,mannewil,Kallnach,Aare,aare,0.0401234567901234,0.4614197530864197,0.0
+Moesa junction,moesa-junction,Arbedo-Castione,Moesa,0,0.3002958579881656,0.4097633136094675,0.0
+mols rocks,mols-rocks,Quarten,Walensee,linth,0.0,0.0,7.0
+Monte Generoso,monte-generoso,Rovio,Alpes Lépontines,les-alpes,0.0,0.0,0.0
+Murg Bad,murg-bad,Quarten,Walensee,linth,0.0,0.0,6.0
+Murg_Waengi_StrickerR,murg_waengi_strickerr,Wängi,Murg,rhine,0.1590909090909091,0.0923295454545454,0.0
+Mühlehorn dorf,muhlehorn-dorf,Glarus Nord,Walensee,linth,0.0,0.0,7.0
+Müllermatte,mullermatte,Biel/Bienne,Bielersee,aare,0.2797074954296161,0.4351005484460695,3.0
+Neuenburgersee_Cudrefin_MatterA,neuenburgersee_cudrefin_mattera,Cudrefin,Neuenburgersee,aare,0.1338383838383838,0.1818181818181818,6.0
+Nidau strand,nidau-strand,Nidau,Bielersee,aare,0.4229249011857707,0.1996047430830039,3.0
+Nouvelle plage,nouvelle-plage,Estavayer,Neuenburgersee,aare,0.3294460641399416,0.0903790087463556,4.0
+Oben am see,oben-am-see,Brienz (BE),Brienzersee,aare,0.1477732793522267,0.4210526315789473,12.0
+Oberi Chlihöchstetten,oberi-chlihochstetten,Rubigen,Aare,aare,0.155096011816839,0.2289512555391432,0.0
+Ognonnaz 1,ognonnaz-1,Vevey,Ognonnaz,rhone,0.51618398637138,0.0391822827938671,1.0
+Oyonne,oyonne,La Tour-de-Peilz,Lac Léman,rhone,0.6470588235294118,0.0235294117647058,2.0
+pacha mama-gerra,pacha-mama-gerra,Gambarogno,Lago Maggiore,ticino,0.1382636655948553,0.8070739549839229,17.0
+Parc des Pierrettes,parc-des-pierrettes,Saint-Sulpice (VD),Lac Léman,rhone,0.4758064516129032,0.0564516129032258,1.0
+Pécos Plage,pecos-plage,Grandson,Neuenburgersee,aare,0.1847133757961783,0.0955414012738853,6.0
+Pfaffner_Rothrist_Ischik,pfaffner_rothrist_ischik,Rothrist,Pfaffnern,aare,0.2226950354609929,0.2794326241134751,0.0
+Pfäfikon bad,pfafikon-bad,Freienbach,Zurichsee,linth,0.3592493297587131,0.099195710455764,6.0
+Pierrier sud,pierrier-sud,Montreux,Lac Léman,rhone,0.5616883116883117,0.0292207792207792,4.0
+Plage de Cheyres,plage-de-cheyres,Cheyres-Châbles,Neuenburgersee,aare,0.1460055096418732,0.3415977961432507,4.0
+Plage de Dorigny,plage-de-dorigny,Saint-Sulpice (VD),Lac Léman,rhone,0.3805104408352668,0.062645011600928,1.0
+Plage de Serrière,plage-de-serriere,Neuchâtel,Neuenburgersee,aare,0.4611111111111111,0.2333333333333333,2.0
+Plage de St Sulpice,plage-de-st-sulpice,Saint-Sulpice (VD),Lac Léman,rhone,0.5085714285714286,0.0571428571428571,1.0
+Pont sous-terre,pont-sous-terre,Genève,Rhône,rhone,0.5481927710843373,0.0466867469879518,0.0
+Préverenges,preverenges,Préverenges,Lac Léman,rhone,0.3773584905660377,0.0781671159029649,2.0
+preverenges-le sout,preverenges-le-sout,Préverenges,Lac Léman,rhone,0.3841059602649007,0.1026490066225165,1.0
+Quai Maria Belgia,quai-maria-belgia,Vevey,Lac Léman,rhone,0.6099290780141844,0.0212765957446808,4.0
+Rastplatz Stampf,rastplatz-stampf,Rapperswil-Jona,Zurichsee,linth,0.3448275862068965,0.0043103448275862,10.0
+Reuss,reuss,Bremgarten (AG),Reuss,linth,0.0689127105666156,0.3108728943338438,0.0
+reuss_hünenberg_eberhardy,reuss_hunenberg_eberhardy,Hünenberg,Reuss,linth,0.0631578947368421,0.0421052631578947,0.0
+reuss_ottenbach_schoenenbergerl,reuss_ottenbach_schoenenbergerl,Merenschwand,Reuss,linth,0.1242424242424242,0.0818181818181818,0.0
+Reuss_St.Karli_LinigerS/ImhofY,reuss_stkarli_linigersimhofy,Luzern,Reuss,linth,0.3572474377745241,0.2386530014641288,0.0
+Rhein Beach Tinguely,rhein-beach-tinguely,Basel,Rhein,rhine,0.5818759936406994,0.0222575516693163,0.0
+Rhein_Basel,rhein_basel,Basel,Rhein,rhine,0.6131045241809673,0.0156006240249609,0.0
+Rhein_Basel_HungerbuehlerN,rhein_basel_hungerbuehlern,Basel,Rhein,rhine,0.589171974522293,0.0207006369426751,0.0
+rhein_domatems_foppa_f,rhein_domatems_foppa_f,Domat/Ems,Rhein,rhine,0.0,0.0,0.0
+rhein_eglisau_gomringerp,rhein_eglisau_gomringerp,Eglisau,Rhein,rhine,0.128935532233883,0.2563718140929535,0.0
+Rhein_Hemishofen_StollL,rhein_hemishofen_stolll,Hemishofen,Rhein,rhine,0.0510046367851622,0.2689335394126739,0.0
+Rivapiana,rivapiana,Minusio,Lago Maggiore,ticino,0.5979381443298969,0.1365979381443299,7.0
+Rocky plage,rocky-plage,Genève,Lac Léman,rhone,0.5406698564593301,0.0239234449760765,2.0
+Rolle-plage,rolle-plage,Rolle,Lac Léman,rhone,0.3468354430379747,0.0177215189873417,4.0
+Route 13,route-13,Locarno,Maggia,ticino,0.5044776119402985,0.1074626865671641,1.0
+Ruisseau de la croix plage,ruisseau-de-la-croix-plage,Cheyres-Châbles,Neuenburgersee,aare,0.1206896551724137,0.3850574712643678,5.0
+Saint Sulpice,saint-sulpice,Saint-Sulpice (VD),Lac Léman,rhone,0.44375,0.10625,1.0
+san nazzaro-gambarogno,san-nazzaro-gambarogno,Gambarogno,Lago Maggiore,ticino,0.245014245014245,0.6666666666666666,13.0
+schiffenensee_duedingen_hirschij,schiffenensee_duedingen_hirschij,Düdingen,Schiffenensee,aare,0.1119005328596803,0.1598579040852575,0.0
+Schmerikon Bahnhof Strand,schmerikon-bahnhof-strand,Schmerikon,Zurichsee,linth,0.1753731343283582,0.2406716417910447,12.0
+Schútzenmatte,schutzenmatte,Burgdorf,Emme,aare,0.2940320232896652,0.3362445414847161,0.0
+Schüsspark strand,schusspark-strand,Biel/Bienne,Schüss,aare,0.4684813753581661,0.2277936962750716,0.0
+seeflechsen,seeflechsen,Glarus Nord,Walensee,linth,0.0,0.1,8.0
+Seemühlestrasse Strand,seemuhlestrasse-strand,Walenstadt,Walensee,linth,0.0,0.0,9.0
+Seez,seez,Walenstadt,Seez,linth,0.0,0.0,9.0
+Seez_Spennwiesenbrücke,seez_spennwiesenbrucke,Walenstadt,Seez,linth,0.0,0.0,4.0
+sempachersee_sempach_tampec,sempachersee_sempach_tampec,Sempach,Sempachsee,aare,0.2214912280701754,0.0745614035087719,0.0
+Sense_Törishaus_g cubes,sense_torishaus_g-cubes,Köniz,Sense,aare,0.0968208092485549,0.2846820809248555,0.0
+Sentiero Giro del Golf spiaggia,sentiero-giro-del-golf-spiaggia,Ascona,Lago Maggiore,ticino,0.3109243697478991,0.0630252100840336,3.0
+Signalpain,signalpain,Yverdon-les-Bains,Neuenburgersee,aare,0.4785553047404062,0.0993227990970654,7.0
+sihlsee_einsiedeln_schilligerllacherl,sihlsee_einsiedeln_schilligerllacherl,Einsiedeln,Sihlsee,linth,0.1845493562231759,0.0579399141630901,0.0
+Sihl_Adliswil_Oggi_Fort,sihl_adliswil_oggi_fort,Adliswil,Sihl,linth,0.3861671469740633,0.223342939481268,0.0
+Sihl_Horgen_BucherF,sihl_horgen_bucherf,Horgen,Sihl,linth,0.0,0.0,0.0
+sihl_leimbach_kruegerm,sihl_leimbach_kruegerm,Zürich,Sihl,linth,0.3265895953757225,0.3020231213872832,0.0
+Sihl_Menzingen_Kucharska_Magdalena,sihl_menzingen_kucharska_magdalena,Menzingen,Sihl,linth,0.0244956772334293,0.1455331412103746,0.0
+sihl_zuerich_eggerskoehlingera,sihl_zuerich_eggerskoehlingera,Zürich,Sihl,linth,0.6154970760233919,0.0146198830409356,0.0
+Sihl_zuerich_eichenbergerD,sihl_zuerich_eichenbergerd,Zürich,Sihl,linth,0.2445730824891461,0.4196816208393632,0.0
+Sihl_Zuerich_ScherfS,sihl_zuerich_scherfs,Zürich,Sihl,linth,0.5560747663551401,0.0077881619937694,2.0
+sihl_zurich_himmelhebern,sihl_zurich_himmelhebern,Zürich,Sihl,linth,0.2808823529411764,0.3485294117647058,0.0
+sitter_gaiserwald_buehlerf,sitter_gaiserwald_buehlerf,St. Gallen,Sitter,rhine,0.2902298850574712,0.2658045977011494,0.0
+Sitter_St.Gallen_JennyA,sitter_stgallen_jennya,St. Gallen,Sitter,rhine,0.310192023633678,0.1757754800590842,0.0
+sitter_stgallen_steinbrunnerf,sitter_stgallen_steinbrunnerf,St. Gallen,Sitter,rhine,0.2805232558139535,0.3328488372093023,0.0
+sorne_birse_WWFJura,sorne_birse_wwfjura,Delémont,Birs,aare,0.2621776504297994,0.2363896848137536,0.0
+Spiaggia Parco Ciani,spiaggia-parco-ciani,Lugano,Lago di Lugano,ticino,0.6346666666666667,0.0506666666666666,5.0
+Späckmatt,spackmatt,Luterbach,Aare,aare,0.2518740629685158,0.2893553223388305,0.0
+Strandbeiz,strandbeiz,Rapperswil-Jona,Zurichsee,linth,0.3614457831325302,0.0040160642570281,9.0
+Strandboden-Biel,strandboden-biel,Biel/Bienne,Bielersee,aare,0.3716337522441651,0.341113105924596,3.0
+Sundbach strand,sundbach-strand,Beatenberg,Thunersee,aare,0.0757180156657963,0.6449086161879894,9.0
+Thun Strandbad,thun-strandbad,Thun,Thunersee,aare,0.6818181818181819,0.0263157894736842,4.0
+thunersee_spiez_meierd_1,thunersee_spiez_meierd_1,Spiez,Thunersee,aare,0.1666666666666666,0.2452830188679245,3.0
+Thur_Schoenenberg_SchaerA,thur_schoenenberg_schaera,Kradolf-Schönenberg,Thur,rhine,0.1331360946745562,0.2337278106508875,0.0
+thur_schwarzenbach_meiliw,thur_schwarzenbach_meiliw,Wil (SG),Thur,rhine,0.2514619883040935,0.1432748538011695,0.0
+Tiger duck beach,tiger-duck-beach,Saint-Sulpice (VD),Lac Léman,rhone,0.3921113689095127,0.062645011600928,1.0
+Tolochenaz,tolochenaz,Tolochenaz,Lac Léman,rhone,0.3054054054054054,0.1081081081081081,2.0
+Tschilljus,tschilljus,Salgesch,Rhône,rhone,0.0998439937597504,0.4196567862714508,0.0
+Töss_Bauma_KurthE,toss_bauma_kurthe,Bauma,Töss,rhine,0.1045845272206303,0.4269340974212034,0.0
+töss_kollbrunn_bürgid,toss_kollbrunn_burgid,Zell (ZH),Töss,0,0.133428981348637,0.479196556671449,0.0
+Töss_Winterthur 2,toss_winterthur-2,Winterthur,Töss,0,0.1637931034482758,0.6135057471264368,0.0
+unterdsee_ermatingen_brunkem,unterdsee_ermatingen_brunkem,Ermatingen,Untersee,rhine,0.3198757763975155,0.1677018633540372,2.0
+Untertenzen,untertenzen,Quarten,Walensee,linth,0.0,0.0,5.0
+urnaesch_urnaesch_meierr,urnaesch_urnaesch_meierr,Hundwil,Urnäsch,rhine,0.0560344827586206,0.2198275862068965,0.0
+Versoix,versoix,Versoix,Lac Léman,rhone,0.6136986301369862,0.0630136986301369,5.0
+Veveyse,veveyse,Vevey,Lac Léman,rhone,0.5950704225352113,0.0211267605633802,4.0
+Via Brunari spiaggia,via-brunari-spiaggia,Bellinzona,Ticino,ticino,0.3037037037037037,0.4103703703703704,0.0
+Via Mirasole spiaggia,via-mirasole-spiaggia,Bellinzona,Ticino,ticino,0.3338235294117647,0.3779411764705882,0.0
+Vidy,vidy,Lausanne,Lac Léman,rhone,0.3994413407821229,0.0055865921787709,2.0
+Vidy ruines,vidy-ruines,Lausanne,Lac Léman,rhone,0.3785166240409207,0.0179028132992327,2.0
+vierwaldstättersee_weggis_schöberls_1,vierwaldstattersee_weggis_schoberls_1,Weggis,Quatre Cantons,linth,0.1576354679802955,0.1231527093596059,5.0
+vierwaldstättersee_weggis_schöberls_2,vierwaldstattersee_weggis_schoberls_2,Weggis,Quatre Cantons,linth,0.1530612244897959,0.1224489795918367,5.0
+vierwaldstättersee_weggis_schöberls_3,vierwaldstattersee_weggis_schoberls_3,Weggis,Quatre Cantons,linth,0.2214285714285714,0.1357142857142857,4.0
+Villa Barton,villa-barton,Genève,Lac Léman,rhone,0.4727272727272728,0.0151515151515151,0.0
+Vira Gambarogno,vira-gambarogno,Gambarogno,Lago Maggiore,ticino,0.1771428571428571,0.66,18.0
+Vira spiaggia left of river,vira-spiaggia-left-of-river,Gambarogno,Lago Maggiore,ticino,0.16991643454039,0.6685236768802229,18.0
+vorderrhein_disentis_schmidn,vorderrhein_disentis_schmidn,Disentis/Mustér,Vorderrhein,rhine,0.0727272727272727,0.3272727272727272,0.0
+Walensee_Walenstadt_WyssE,walensee_walenstadt_wysse,Walenstadt,Walensee,linth,0.0,0.0,10.0
+Weissenau-Neuhaus,weissenau-neuhaus,Unterseen,Thunersee,aare,0.0414201183431952,0.3372781065088757,13.0
+Wycheley,wycheley,Brienz (BE),Brienzersee,aare,0.1007751937984496,0.5174418604651163,12.0
+zuerichsee_maennedorf_vanderkaadene,zuerichsee_maennedorf_vanderkaadene,Männedorf,Zurichsee,linth,0.5224274406332454,0.0422163588390501,6.0
+zuerichsee_richterswil_benkoem_2,zuerichsee_richterswil_benkoem_2,Richterswil,Zurichsee,linth,0.4060402684563758,0.1644295302013422,3.0
+zuerichsee_staefa_hennm,zuerichsee_staefa_hennm,Stäfa,Zurichsee,linth,0.2528089887640449,0.1629213483146067,4.0
+zuerichsee_waedenswil_colomboc_1,zuerichsee_waedenswil_colomboc_1,Richterswil,Zurichsee,linth,0.36,0.1571428571428571,3.0
+zuerichsee_zurich_kullg,zuerichsee_zurich_kullg,Zürich,Zurichsee,linth,0.5204678362573099,0.0555555555555555,3.0
+ZugerseeCholler_Cham_BlarerM,zugerseecholler_cham_blarerm,Zug,Zugersee,linth,0.3706896551724138,0.0201149425287356,8.0
+zugersee_Immensee_Guedesd,zugersee_immensee_guedesd,Meierskappel,Zugersee,linth,0.072992700729927,0.5474452554744526,6.0
+zulg_steffisburg_schmassmanne,zulg_steffisburg_schmassmanne,Steffisburg,Zulg,aare,0.413391557496361,0.074235807860262,0.0
+Zürcher Strand,zurcher-strand,Zürich,Zurichsee,linth,0.5701275045537341,0.0091074681238615,3.0
+Zürichsee Feldeggstr BänningerSand,zurichsee-feldeggstr-banningersand,Zürich,Zurichsee,linth,0.5847826086956521,0.017391304347826,5.0
+Zürichsee_Küsnachterhorn_Thirkell WhiteJ,zurichsee_kusnachterhorn_thirkell-whitej,Küsnacht (ZH),Zurichsee,linth,0.6612377850162867,0.0977198697068403,3.0
+zürichsee_wollishofen_langendorfm,zurichsee_wollishofen_langendorfm,Zürich,Zurichsee,linth,0.4692307692307692,0.0358974358974358,1.0
+0,clean-up-event-test,0,0,0,0.6447368421052633,0.0236842105263157,0.0
