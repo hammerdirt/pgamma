@@ -1,1 +1,1 @@
-# Implementation of a Poisson Gamma hierarchical model.
+# Implementation of various models to forecast beach litter survey results
