@@ -1,0 +1,3 @@
+The current log file: 2022-11-08 07:43:19.161576
+ROW and LABEL FORMATTER 151, row_and_column_label_formatter, context: a, b, c = inspector()
+ result: objects formatted
