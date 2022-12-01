@@ -22,7 +22,7 @@ from fractions import Fraction
 
 import config
 
-config.start_log()
+# config.start_log()
 
 
 def inspector() -> (str, int):
